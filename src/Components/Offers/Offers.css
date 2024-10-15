@@ -3,7 +3,9 @@
     height: 60vh;
     display:flex;
     margin:auto;
-    padding:550px 140px;
+    padding-top:550px;
+    padding-left: 240px;
+    padding-right: 240px;;
     margin-bottom: 150px;
     background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%)
 }
